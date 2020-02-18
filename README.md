@@ -17,7 +17,7 @@ This project is meant to be run at the edge on an NVIDIA Jetson Nano (or similar
 Contains 360 images times 3 classes (total images = 1080) taken and used for training. The images were encrypted for privacy purposes.
 
 ### [models](models) 
-Contains different model iterations and are named after the total training images and epochs. The best performing model is the *xy_360dpx3_45ep.pth* model which was trained with 200 images per class and for a total of 35 epochs.
+Contains different model iterations and are named after the total training images and epochs. The best performing model is the *xy_360dpx3_45ep.pth* model which was trained with 360 images per class and for a total of 45 epochs.
 
 ### [notebooks](notebooks)
 Contains the Jupyter notebook used to interactively train and evaluate an emotion prediction (up or down) model using deep learning and PyTorch.
