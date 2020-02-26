@@ -4,6 +4,8 @@ NVIDIA IoT [Deep Learning Institute](https://www.nvidia.com/en-us/deep-learning-
 
 This project is meant to be run at the edge on an NVIDIA Jetson Nano (or similar ARM IoT architecture computer).  
 
+<img src="https://developer.nvidia.com/sites/default/files/akamai/embedded/images/jetsonNano/JetsonNano-DevKit_Front-Top_Right_trimmed.jpg" width=400/>
+
 ## Requirements
 * Jupyter Notebooks (AKA IPython)
 * Pytorch
